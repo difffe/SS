@@ -20,7 +20,7 @@
 #include "checks/macros/MacrosRequest.h"
 #include "checks/usnjournal/USNJournal.h"
 #include "checks/muicache/MUICacheRequest.h"
-#include "checks/ntfs/NTFSRequest.h"  // Incluir el archivo de encabezado de NTFSRequest
+#include "checks/ntfs/NTFSRequest.h"
 
 void setConsoleTextColor(WORD color) {
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
