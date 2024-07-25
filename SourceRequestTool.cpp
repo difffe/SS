@@ -1,3 +1,5 @@
+// Based on ScreenShare Tool by NotRequiem
+
 #include <iostream>
 #include <windows.h>
 #include <vector>
